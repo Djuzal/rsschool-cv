@@ -1,4 +1,5 @@
 # Maksim Zhukanov
+![Alt text](Avatar.png)
 <p>Contact info:
     
     799523464 - Phone number.
